@@ -10,6 +10,7 @@ autopep8 = "*"
 pylint = "*"
 pytest = "*"
 flask = "*"
+pycodestyle = "*"
 
 [requires]
 python_version = "3.9"
