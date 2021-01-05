@@ -1,1 +1,1 @@
-# EmptyPython
+# An empty Python project with apply google coding standard with pylint & autopep8, pytest.
